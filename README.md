@@ -4,7 +4,7 @@ penetration testers, and red teamers to assess security weaknesses in Windows en
 
 Usage
 Running Mimikatz 
-./Mimikatz.exe
+./mimikatz.exe
 Once you've compiled or downloaded Mimikatz, you can execute the tool and start using its commands. Below are some example commands to use Mimikatz for common tasks:
 
 1. Extracting Plaintext Passwords and NTLM Hashes
